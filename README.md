@@ -8,7 +8,7 @@ Clue was a very popular game in the 90's. The plot starts with Mr. Boddy being k
 
 Hasbro, the toy maker company and owner of Clue, [recently changed](http://www.independent.co.uk/arts-entertainment/cluedo-first-new-character-dr-orchid-mrs-white-dead-1949-hasbro-a7118351.html) some of the characters bio. Use the bio to gather information from the characters.
 
-![Clue Picture](https://i.imgur.com/AZWieq9.jpg =300)
+![Clue Picture](https://i.imgur.com/AZWieq9.jpg)
 
 ## Requirements
 
@@ -39,7 +39,7 @@ In order to do this, you will need to know the game's characters (possible kille
 
 ### Game Characters
 
-This Clue board game has a new roster of playable characters. All of them  have first names, last names, occupations, age, descriptions and images. Here you will find a list of some of their attributes. :satisfied:
+This Clue board game has a new roster of playable characters. All of them  have first names, last names, occupations, age, and descriptions. Here you will find a list of some of their attributes. :satisfied:
 
 - **Jacob Green:** his color is *green*. He has a lot of connections and is always willing to help people out -- for a price.
 
